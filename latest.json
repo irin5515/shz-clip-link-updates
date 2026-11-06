@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "productId": "shz-clip-link",
+  "version": "0.9.2",
+  "channel": "beta",
+  "publishedAt": "2026-11-06",
+  "downloadUrl": "https://hanzanstudio.gumroad.com/l/shz-clip-link",
+  "notes": "- Dedicated public version feed; Gumroad downloads\n- 공개 버전 정보 전용 저장소·검로드 다운로드 연결\n- Import and file refresh behavior preserved\n- 가져오기·파일 자동 갱신 동작 유지"
+}
